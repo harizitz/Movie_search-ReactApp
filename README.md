@@ -1,5 +1,7 @@
 ### Movie Search App - A simple React App
 
+ **[🌐 Web Version ](https://moviedictionary.netlify.app "VISIT WEBSITE 🌐")**
+
 - It contains a search component
 - When the user enters a movie name it fetches and displays all the movie details such as description, release date, movie rating etc.
 - API used - themoviedb api
